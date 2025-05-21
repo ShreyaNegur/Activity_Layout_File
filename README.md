@@ -28,5 +28,5 @@ Welcome to the **Mobile Application Development (MAD)** Notes Repository! This r
 
 ### Maintainer
 **U S Abhiram**
-** adbhiramus.mca24@rvce.edu.in
+**abhiramus.mca24@rvce.edu.in**
 Feel free to raise issues or suggest improvements.
