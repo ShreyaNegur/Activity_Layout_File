@@ -2,9 +2,6 @@
 
 Welcome to the **Mobile Application Development (MAD)** Notes Repository! This repository is dedicated to maintaining notes and other resources related to the subject of Mobile App Development.
 
-
-> 🗒️ **Note:** Folder names and files may vary depending on your syllabus or institution.
-
 ## ✍️ How to Contribute
 
 1. Fork the repository.
@@ -29,4 +26,4 @@ Welcome to the **Mobile Application Development (MAD)** Notes Repository! This r
 ### Maintainer
 **U S Abhiram**
 **abhiramus.mca24@rvce.edu.in**
-Feel free to raise issues or suggest improvements.
+**Feel free to raise issues or suggest improvements.**
